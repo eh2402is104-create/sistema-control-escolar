@@ -1,1 +1,14 @@
+# Requerimientos 
 
+## Requerimientos funcionales
+1. El sistema permitira registrar alumnos.
+2. El sistema permitira consultar alummnos.
+3. EL sistema Permitira registrar docentes.
+4. El sistema permitira adminsitrar materias.
+5. El sistema permitira consultar el kardex academico.
+6. EL sistema permitira iniciar sesion.
+
+## Requerimientos no Funiconales
+1. EL sistema debera ser facil de utilizar.
+2. El sistema denera proteger el acceso mediantes autenticacion.
+3. La informacion debera almacenarse en una base de datos.
