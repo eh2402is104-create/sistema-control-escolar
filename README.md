@@ -19,3 +19,5 @@ Crear un sistema que permita gestionar la información académica de alumnos, do
 ## Estado del proyecto 
 En desarrollo.
 Proyecto académico de un sistema de control escolar 
+
+## Fecha de inicio 19 de Septiembre 2026
